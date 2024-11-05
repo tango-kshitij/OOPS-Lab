@@ -1,0 +1,6 @@
+inp1=int(input("Enter 1st input: "))
+inp2=str(input("Enter 2nd input: "))
+inp3=float(input("Enter 3rd input: "))
+type(inp1)
+type(inp2)
+type(inp3)
